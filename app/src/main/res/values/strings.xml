@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="call">电话</string>
+    <string name="location">位置</string>
+    <string name="mail">邮件</string>
+    <string name="task">文档</string>
+</resources>
